@@ -1,0 +1,15 @@
+@media(max-width:768px){
+
+header{
+flex-direction:column;
+}
+
+nav{
+margin-top:15px;
+}
+
+.products{
+grid-template-columns:1fr;
+}
+
+}
